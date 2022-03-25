@@ -1,0 +1,18 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/Felipe/Documents/Proyecto-1_AED_FViales/Main.cpp
+Main.h
+C:/Users/Felipe/Documents/Proyecto-1_AED_FViales/Main.h
+iostream
+-
+
+C:/Users/Felipe/Documents/Proyecto-1_AED_FViales/Main.h
+iostream
+-
+
